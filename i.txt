@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I here
+=======
+I modified
+>>>>>>> first

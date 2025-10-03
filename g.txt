@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 G here
+=======
+G modified
+>>>>>>> first
